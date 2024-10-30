@@ -1,0 +1,224 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Morkva Nova Post\n"
+"POT-Creation-Date: 2024-10-18 14:15+0300\n"
+"PO-Revision-Date: 2024-10-18 14:17+0300\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: ru_RU\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.2\n"
+"X-Poedit-Basepath: ..\n"
+"Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && n"
+"%10<=4 && (n%100<12 || n%100>14) ? 1 : 2);\n"
+"X-Poedit-Flags-xgettext: --add-comments=translators:\n"
+"X-Poedit-WPHeader: mrkv-nova-post.php\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;_n:1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;esc_attr__;"
+"esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c;_n_noop:1,2;"
+"_nx_noop:3c,1,2;__ngettext_noop:1,2\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: *.js\n"
+
+#: classes/settings/class-mrkv-nova-menu.php:25
+msgid "Nova Post Settings"
+msgstr "Налаштування Nova Post"
+
+#. Plugin Name of the plugin/theme
+#: classes/settings/class-mrkv-nova-menu.php:25
+#: methods/mrkv-nova-shipping-method.php:23
+msgid "Morkva Nova Post"
+msgstr "Morkva Nova Post"
+
+#: classes/woocommerce/checkout/class-mrkv-nova-checkout-validation.php:62
+msgid "Fill in the shipping information"
+msgstr "Заповніть інформацію про доставку"
+
+#: classes/woocommerce/checkout/class-mrkv-nova-checkout.php:118
+msgid "Warehouse"
+msgstr "Відділення"
+
+#: classes/woocommerce/checkout/class-mrkv-nova-checkout.php:119
+msgid "Enter three or more letters of the city name"
+msgstr "Введіть три або більше літер назви міста"
+
+#: methods/mrkv-nova-shipping-method.php:24
+msgid "Morkva Nova Post Shipping"
+msgstr "Morkva Nova Post Доставка"
+
+#: methods/mrkv-nova-shipping-method.php:73
+msgid "Enable Fixed Price for Delivery"
+msgstr "Встановити фіксовану вартість доставки"
+
+#: methods/mrkv-nova-shipping-method.php:74
+msgid "If checked, fixed price will be set for delivery"
+msgstr "Якщо вибрано, буде використовуватися фіксована вартість"
+
+#: methods/mrkv-nova-shipping-method.php:80
+msgid "Fixed shipping price"
+msgstr "Фіксована вартість доставки"
+
+#: methods/mrkv-nova-shipping-method.php:82
+#: methods/mrkv-nova-shipping-method.php:96
+msgid "Enter the amount in numbers"
+msgstr "Введіть суму цифрами"
+
+#: methods/mrkv-nova-shipping-method.php:87
+msgid "Enable Minimum amount for free shipping"
+msgstr "Увімкнути мінімальну вартість замовлення для безкоштовної доставки"
+
+#: methods/mrkv-nova-shipping-method.php:88
+msgid "If checked, Minimum amount for free shipping will be set for delivery"
+msgstr ""
+"Якщо вибрано, буде застосовано мінімальну вартість до безкоштовної доставки"
+
+#: methods/mrkv-nova-shipping-method.php:94
+msgid "Minimum amount for free shipping"
+msgstr "Мінімальна вартість для безкоштовної доставки"
+
+#: methods/mrkv-nova-shipping-method.php:101
+msgid "Text with free delivery"
+msgstr "Текст безкоштовної доставки"
+
+#: methods/mrkv-nova-shipping-method.php:103
+msgid "FREE to Nova Post"
+msgstr "Безкоштовно для Nova Post"
+
+#: templates/template-mrkv-nova-post-admin-header.php:10
+msgid "Global"
+msgstr "Глобальні налаштування"
+
+#: templates/template-mrkv-nova-post-settings-page.php:11
+#: templates/template-mrkv-nova-post-settings-page.php:12
+msgid "Settings Nova Post"
+msgstr "Налаштування Nova Post"
+
+#: templates/template-mrkv-nova-post-settings-page.php:79
+msgid "Basic settings"
+msgstr "Базові налаштування"
+
+#: templates/template-mrkv-nova-post-settings-page.php:80
+msgid ""
+"Integrate the Nova Post API into your website to send orders to customers in "
+"a convenient way. Deliver from Europe to Ukraine or from Ukraine to Europe "
+"with the help of the largest postal operator network in Ukraine, Nova Post."
+msgstr ""
+"Інтегруйте API Nova Post на свій сайт, щоб відправляти замовлення клієнтам у "
+"зручний спосіб. Доставляйте з Європи в Україну або з України в Європу за "
+"допомогою мережі найбільшого поштового оператора України Нова пошта."
+
+#: templates/template-mrkv-nova-post-settings-page.php:82
+msgid "Api Server"
+msgstr "Api Сервер"
+
+#: templates/template-mrkv-nova-post-settings-page.php:86
+msgid "Production"
+msgstr "Production"
+
+#: templates/template-mrkv-nova-post-settings-page.php:87
+msgid "Sandbox"
+msgstr "Sandbox"
+
+#: templates/template-mrkv-nova-post-settings-page.php:114
+msgid "Api Token"
+msgstr "Api Токен"
+
+#: templates/template-mrkv-nova-post-settings-page.php:119
+msgid "API key correct"
+msgstr "API ключ вірний"
+
+#: templates/template-mrkv-nova-post-settings-page.php:125
+msgid "API key incorrect"
+msgstr "API key неправильний"
+
+#: templates/template-mrkv-nova-post-settings-page.php:142
+msgid ""
+"During the registration process, you will receive an API access key. Make "
+"sure to store this information in a secure place."
+msgstr ""
+"Під час реєстрації ви отримаєте ключ доступу до API. Зберігайте цю "
+"інформацію в надійному місці."
+
+#: templates/template-mrkv-nova-post-settings-page.php:146
+msgid "Save Settings"
+msgstr "Зберегти"
+
+#: templates/template-mrkv-nova-post-settings-page.php:149
+msgid "Parcels Default Settings"
+msgstr "Налаштування посилок за замовчуванням"
+
+#: templates/template-mrkv-nova-post-settings-page.php:151
+msgid "Cargo Category"
+msgstr "Категорія вантажу"
+
+#: templates/template-mrkv-nova-post-settings-page.php:184
+msgid "Shipping dimensions"
+msgstr "Розміри доставки"
+
+#: templates/template-mrkv-nova-post-settings-page.php:188
+msgid "Width"
+msgstr "Ширина"
+
+#: templates/template-mrkv-nova-post-settings-page.php:188
+#: templates/template-mrkv-nova-post-settings-page.php:199
+#: templates/template-mrkv-nova-post-settings-page.php:210
+msgid "(mm)"
+msgstr "(мм)"
+
+#: templates/template-mrkv-nova-post-settings-page.php:199
+msgid "Length"
+msgstr "Довжина"
+
+#: templates/template-mrkv-nova-post-settings-page.php:210
+msgid "Height"
+msgstr "Висота"
+
+#: templates/template-mrkv-nova-post-settings-page.php:223
+msgid "Weight"
+msgstr "Вага"
+
+#: templates/template-mrkv-nova-post-settings-page.php:223
+msgid "(g)"
+msgstr "(г)"
+
+#: templates/template-mrkv-nova-post-settings-page.php:234
+msgid "Row number"
+msgstr "Кількість рядків"
+
+#: templates/template-mrkv-nova-post-settings-page.php:234
+msgid "(rows)"
+msgstr "(ліній)"
+
+#: templates/template-mrkv-nova-post-settings-page.php:253
+msgid "Support"
+msgstr "Підтримка"
+
+#: templates/template-mrkv-nova-post-settings-page.php:254
+msgid ""
+"Having trouble creating a shipment? Feel free to contact our support team."
+msgstr "Щось не вдається? Напишіть в нашу підтримку."
+
+#: templates/template-mrkv-nova-post-settings-page.php:255
+msgid "E-mail"
+msgstr "E-mail"
+
+#: templates/template-mrkv-nova-post-settings-page.php:256
+msgid "Telegram"
+msgstr "Telegram"
+
+#. Plugin URI of the plugin/theme
+msgid "https://morkva.co.ua/"
+msgstr "https://morkva.co.ua/"
+
+#. Description of the plugin/theme
+msgid "Nova Post"
+msgstr "Nova Post"
+
+#. Author of the plugin/theme
+msgid "MORKVA"
+msgstr "MORKVA"
+
+#~ msgid "Cost"
+#~ msgstr "Вартість"

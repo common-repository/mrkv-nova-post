@@ -1,0 +1,340 @@
+.mrkv-nova__section__inner .plugin-development{
+    margin-top: 20px;
+}
+.mrkv-nova__section__inner .plugin-development span {
+    margin-bottom: 6px;
+    font-size: 16px;
+    display: block;
+    font-weight: 500;
+}
+.mrkv-nova__section__inner .plugin-development img {
+    height: 27px;
+}
+.mrkv-nova__section{
+    padding: 0 30px;
+    display: flex;
+    align-items: stretch;
+    gap: 0 30px;
+    flex-wrap: wrap;
+}
+.mrkv-nova__section-tab{
+    padding: 0 30px;
+}
+.mrkv-col-7{
+    width: calc(70% - 75px);
+}
+.mrkv-col-3{
+    width: calc(30% - 75px);
+}
+#wpbody {
+    background-color: #eff1f7;
+}
+.admin_mrkv_ua_shipping__plugin__support h2 {
+    margin-top: 0;
+    font-weight: 700;
+    font-size: 22px;
+    display: flex;
+    align-items: center;
+    gap: 10px;
+    line-height: 1;
+}
+.admin_mrkv_ua_shipping_morkva-logo img{
+    width: 130px;
+}
+.admin_mrkv_ua_shipping__tabs_main{
+    position: relative;
+}
+.admin_mrkv_ua_shipping__tabs_main h2{
+    margin-top: 0;
+    font-weight: 700;
+    font-size: 22px;
+    display: flex;
+    align-items: center;
+    gap: 10px;
+    line-height: 1;
+    margin-bottom: 0;
+}
+.mrkv-nova__form__line h2{
+    margin-top: 0;
+    font-weight: 700;
+    font-size: 22px;
+    display: flex;
+    align-items: center;
+    gap: 10px;
+    line-height: 1;
+}
+.mrkv-nova__form__line h2 img{
+    height: 25px;
+    padding-top: 1px;
+}
+.mrkv-nova__form__line h4{
+    display: block;
+    font-weight: bold;
+    position: relative;
+    width: fit-content;
+    color: #000;
+}
+.admin_mrkv_ua_shipping__tabs_main h2 img{
+        position: absolute;
+    width: 100px;
+    right: 30px;
+    top: 20px;
+    height: auto;
+}
+.admin_mrkv_ua_shipping__plugin__support h2 img {
+    height: 25px;
+    padding-top: 1px;
+}
+.admin_mrkv_ua_shipping__btn {
+    width: 100%;
+    display: flex !important;
+    align-items: center;
+    justify-content: center;
+    height: 38px;
+    margin-bottom: 20px !important;
+    border: 1px solid #ed6230;
+    border-radius: 10px !important;
+    text-decoration: unset !important;
+    color: #ed6230 !important;
+    background-color: transparent !important;
+    font-size: 16px !important;
+    font-weight: 600;
+    border-color: #ed6230 !important;
+    position: relative;
+}
+.admin_mrkv_ua_shipping__btn:hover {
+    background-color: #ed6230 !important;
+    color: #fff !important;
+}
+.admin_mrkv_ua_shipping__btn:focus {
+    box-shadow: 0 0 0 1px #fff, 0 0 0 3px #ed6230 !important;
+}
+.admin_mrkv_ua_shipping__tabs_main{
+    margin-bottom: 0 !important;
+    margin-top: 30px;
+}
+.mrkv-nova__section__inner{
+    background-color: #fff;
+    padding: 10px 20px 20px 20px;
+    margin-top: 30px;
+    background-color: #fff;
+    border-radius: 10px;
+    padding: 30px;
+    margin-bottom: 30px;
+    height: fit-content;
+}
+.mrkv-nova__inner__header img{
+    margin-left: 10px;
+}
+.mrkv-nova__inner__header h1{
+    margin-top: 10px;
+    margin-bottom: 10px;
+    display: flex;
+    align-items: center;
+}
+.mrkv-nova__section__inner .submit #submit{
+    background-color: #ed6230;
+    border: unset;
+    color: #fff;
+    font-size: 16px;
+    padding: 2px 50px;
+    font-weight: 600;
+    border-radius: 10px;
+}
+.mrkv-nova__section__inner .submit #submit:focus{
+    box-shadow: unset;
+    box-shadow: 0 0 0 1px #fff, 0 0 0 3px #ed6230;
+}
+.mrkv-nova__section__inner .submit #submit:hover{
+    background-color: #c34f26;
+}
+/*.mrkv-nova__form__row{
+    display: flex;
+    justify-content: space-between;
+}*/
+/*.mrkv-nova__form__col{
+    max-width: calc(50% - 10px);
+    flex: calc(50% - 10px);
+}*/
+.mrkv-nova__inner__body #setting-error-settings_updated{
+    margin: 20px 0 0 0; 
+}
+.mrkv-nova__form__line__radio_val input[type="radio"]{
+    display: none;
+}
+.mrkv-nova__form__line__radio_val input[type="radio"] + label{
+    position: relative;
+    display: flex;
+    align-items: center;
+}
+.mrkv-nova__form__line__radio_val input[type="radio"] + label:before{
+    content: '';
+    width: 12px;
+    height: 12px;
+    border-radius: 100%;
+    background-color: #ccc;
+    display: block;
+    border: 3px solid #ccc;
+    transition: all .7s;
+}
+.mrkv-nova__form__line__radio_val input[type="radio"]:checked + label:before{
+    background-color: #fff;
+    border-color: #ed6230;
+}
+.mrkv-nova__form__line__content__radio label{
+    display: flex;
+    align-items: center;
+    gap: 10px;
+    cursor: pointer;
+    transition: all .7s;
+    position: relative;
+    width: fit-content;
+    color: #000;
+    margin-bottom: 10px;
+}
+.mrkv-nova__form__line__content__radio{
+    display: flex;
+    align-items: center;
+    gap: 15px;
+}
+.mrkv-nova__form__line__text_val input[type="text"]{
+    width: 100%;
+    max-width: 600px;
+    width: 100%;
+    border-radius: 10px;
+    border-color: #c5c5c5;
+}
+.mrkv-nova__form__line__text_val input[type="text"]:focus{
+    border-color: #ed6230;
+    box-shadow: unset;
+}
+.mrkv_nova__tab-links{
+    margin-top: 20px;
+    display: flex;
+}
+.mrkv_nova__tab-links a{
+    background-color: #fff;
+    font-size: 14px;
+    color: #000;
+    text-decoration: unset;
+    padding: 10px 15px;
+    border-bottom: 1px solid #f2f2f2;
+}
+.mrkv_nova__tab-links a:hover{
+    color: #da291c;
+    border-bottom: 1px solid #f2f2f2;
+}
+.mrkv_nova__tab-links a.mrkv_nova__checked_a{
+    background-color: #da291c;
+    color: #fff;
+}
+.mrkv_nova__tab-links a:not(.mrkv_nova__checked_a){
+    border-right: 1px solid #f2f2f2;
+}
+.mrkv-nova__section__inner input[type="text"]:focus,
+.mrkv-nova__section__inner input[type="number"]:focus{
+    box-shadow: unset;
+}
+.mrkv-nova__form__line__text_val > p{
+    margin-top: 5px;
+}
+.mrkv-nova__form__sizes__col input, .mrkv-nova__form__content__weight input{
+    width: 50px;
+    text-align: center;
+}
+.mrkv-nova__form__content__sizes, .mrkv-nova__form__content__weight{
+    display: flex;
+    align-items: center;
+    gap: 10px;
+}
+.mrkv-nova__form__content__weight{
+    margin-top: 10px;
+}
+.mrkv-nova__section__inner  input[type=number]::-webkit-outer-spin-button,
+.mrkv-nova__section__inner  input[type=number]::-webkit-inner-spin-button{
+    -webkit-appearance: none;
+    margin: 0;
+}
+.mrkv_block_rounded{
+    background-color: #fff;
+    border-radius: 10px;
+    padding: 30px;
+    margin-bottom: 30px;
+}
+.admin_mrkv_ua_shipping__header {
+    margin-bottom: 0;
+    border-radius: 0 0 10px 10px;
+}
+.admin_mrkv_ua_shipping__header__content{
+    display: flex;
+    align-items: center;
+    gap: 25px;
+}
+.admin_mrkv_ua_shipping__header__content a {
+    font-size: 16px;
+    color: #000;
+    text-decoration: unset;
+}
+.admin_mrkv_ua_shipping__header_img {
+    display: flex;
+    background-color: #ed6230;
+    border-radius: 10px;
+    align-items: center;
+    justify-content: center;
+    padding: 6px;
+}
+.admin_mrkv_ua_shipping__header__content a {
+    font-size: 16px;
+    color: #000;
+    text-decoration: unset;
+}
+.admin_mrkv_ua_shipping__header__content a.active,
+.admin_mrkv_ua_shipping__header__content a:hover {
+    font-size: 16px;
+    color: #000;
+    text-decoration: unset;
+    color: #ed6230;
+}
+.admin_mrkv_ua_shipping_morkva-logo{
+    margin-left: auto;
+}
+#wpcontent{
+    padding-left: 0;
+}
+.admin_ua_ship_morkva__notification{
+    position: absolute;
+    left: calc(100% + 15px);
+    top: -3px;
+    padding: 3px 20px;
+    border-radius: 10px;
+    font-weight: 400;
+    width: max-content;
+    font-size: 11px;
+}
+.mrkv-notification-green {
+    background: #baefba;
+}
+.mrkv-notification-red {
+    background: #efbdba;
+}
+.mrkv-nova__section-tab .notice{
+    margin: 0;
+    margin-top: 30px;
+    position: relative;
+    border-radius: 10px;
+    box-shadow: unset;
+    padding: 1px 30px 1px 26px;
+    border: unset;
+}
+.mrkv-nova__section-tab .notice-success p:before {
+    content: url(../img/notice-success.svg);
+    margin-right: 10px;
+    height: 20px;
+}
+.mrkv-nova__section-tab .notice p{
+    display: flex;
+}
+.mrkv-nova__form__col .submit{
+    padding-bottom: 0;
+    margin-bottom: 0;
+}
